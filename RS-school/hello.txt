@@ -1,6 +1,2 @@
-
-first commit 
-second time
 first commit
 some very great text
-
